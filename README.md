@@ -1,6 +1,4 @@
-# Course Hub Landing Page
-
-Demo List [Course Hub](https://task-course-hub.netlify.app/).
+# Course Hub Landing Page - Demo Link [Course Hub](https://task-course-hub.netlify.app/)
 
 # Technologies Used
 
