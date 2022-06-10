@@ -2,7 +2,7 @@
 
 Demo List [Course Hub](https://task-course-hub.netlify.app/).
 
-## Available Scripts
+## Technologies Used
 
 In the project directory, you can run:
 
