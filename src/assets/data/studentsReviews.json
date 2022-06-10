@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "review": "Amazing course for learning new things"
+  },
+  {
+    "id": 2,
+    "name": "Rohan Shety",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
+    "review": "Updated course are so helpful for newbies"
+  },
+  {
+    "id": 3,
+    "name": "Yahoo McBoat",
+    "image": "https://randomuser.me/api/portraits/men/7.jpg",
+    "review": "I really like this class because of it's system"
+  },
+  {
+    "id": 4,
+    "name": "Henry Smith",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg",
+    "review": "I like this online platform very much"
+  },
+  {
+    "id": 5,
+    "name": "Monik Rothi",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg",
+    "review": "Amazing class because all lectures and assignments"
+  },
+  {
+    "id": 6,
+    "name": "Derek Broni",
+    "image": "https://randomuser.me/api/portraits/men/13.jpg",
+    "review": "Lectures, assignments, and tests are straight forward"
+  }
+]

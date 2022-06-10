@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "The Complete 2021 Web Development",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img1.jpg",
+    "category": "Web Development",
+    "rating": 5,
+    "price": 99
+  },
+  {
+    "id": 2,
+    "title": "Agile Crash Course: Project Management",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img2.jpg",
+    "category": "Professional",
+    "rating": 4.5,
+    "price": 50
+  },
+  {
+    "id": 3,
+    "title": "Vue JS 3 – The Complete Guide Vue",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img3.jpg",
+    "category": "Programming",
+    "rating": 4.8,
+    "price": 80
+  },
+  {
+    "id": 4,
+    "title": "Node.js for Beginners: Zero to Hero",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img4.jpg",
+    "category": "Web Development",
+    "rating": 4.6,
+    "price": 90
+  },
+  {
+    "id": 5,
+    "title": "Oracle SQL Developer : 2021 Essentials",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img5.jpg",
+    "category": "Professional",
+    "rating": 5,
+    "price": 95
+  },
+  {
+    "id": 6,
+    "title": "Python Django Web Develop: To-Do App",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img6.jpg",
+    "category": "Programming",
+    "rating": 5,
+    "price": 90
+  },
+  {
+    "id": 7,
+    "title": "Deep Learning The Numpy Stack in Python",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img7.jpg",
+    "category": "Programming",
+    "rating": 4.7,
+    "price": 85
+  },
+  {
+    "id": 8,
+    "title": "Modern JavaScript From The Beginning",
+    "image": "https://themes.envytheme.com/ellen/wp-content/uploads/2021/11/courses-img8.jpg",
+    "category": "Web Development",
+    "rating": 5,
+    "price": 99
+  }
+]

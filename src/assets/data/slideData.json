@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Learn Python: The Complete Python Programming Course",
+    "description": "Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.",
+    "image": "https://i.ibb.co/KzMDbRw/slider-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+    "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!",
+    "image": "https://i.ibb.co/gVgBbSc/slider-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+    "description": "We built the bestselling React course on Udemy - this course now allows you to take your React knowledge to the next level and build fullstack web apps based on React, NodeJS, MongoDB and Express! Building fullstack applications (i.e. frontend + backend) with the MERN stack is very popular - in this course, you will learn it from scratch at the example of a complete project! MERN stands for MongoDB, Express.js, React.js and Node.js - and combined, these four technologies allow you to build amazing web applications.",
+    "image": "https://i.ibb.co/M8XKKqf/slider-3.jpg"
+  }
+]
